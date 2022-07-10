@@ -17,7 +17,7 @@
             
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/soumyadeep-roy/"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="dg_2103" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/soumyadeep-roy-36b0b5218/"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="dg_2103" height="30" width="40" /></a>
 </p>
 
 
