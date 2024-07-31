@@ -9,7 +9,7 @@
      ![](https://64.media.tumblr.com/e6c4e95bea1d6a360ef8bdc785ad11ae/c9bd3beb41efbe73-00/s400x600/d0b8c1271100990aa315ab6545196f4b035a876e.gifv)
      
      ![](https://hips.hearstapps.com/esquireuk.cdnds.net/16/17/1461773342-cryuff.gif?resize=320:*)
-- I am interested in web development and coding.
+- I am interested in Cyber security and ethical hacking.
 - Studying CSE in STCET.
 - Always a learner!
 - Go by my name and I'm a good boy to you, but then *What's in a name?*
